@@ -1,0 +1,14 @@
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.exe
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.deps.json
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.runtimeconfig.json
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.dll
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.pdb
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.dll
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\refint\ChuyenDoiNhietDo.dll
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.pdb
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ref\ChuyenDoiNhietDo.dll
