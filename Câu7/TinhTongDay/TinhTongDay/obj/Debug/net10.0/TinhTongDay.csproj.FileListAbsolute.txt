@@ -1,0 +1,14 @@
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\bin\Debug\net10.0\TinhTongDay.exe
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\bin\Debug\net10.0\TinhTongDay.deps.json
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\bin\Debug\net10.0\TinhTongDay.runtimeconfig.json
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\bin\Debug\net10.0\TinhTongDay.dll
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\bin\Debug\net10.0\TinhTongDay.pdb
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.dll
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\refint\TinhTongDay.dll
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.pdb
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\TinhTongDay.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\TinhTongDay\TinhTongDay\obj\Debug\net10.0\ref\TinhTongDay.dll

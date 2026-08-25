@@ -1,0 +1,14 @@
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\bin\Debug\net10.0\QuanLyMang.exe
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\bin\Debug\net10.0\QuanLyMang.deps.json
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\bin\Debug\net10.0\QuanLyMang.runtimeconfig.json
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\bin\Debug\net10.0\QuanLyMang.dll
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\bin\Debug\net10.0\QuanLyMang.pdb
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.dll
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\refint\QuanLyMang.dll
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.pdb
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\QuanLyMang.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\QuanLyMang\QuanLyMang\obj\Debug\net10.0\ref\QuanLyMang.dll
