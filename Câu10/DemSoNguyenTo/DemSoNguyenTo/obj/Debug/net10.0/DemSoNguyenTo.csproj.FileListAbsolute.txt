@@ -1,0 +1,14 @@
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.exe
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.deps.json
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.runtimeconfig.json
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.dll
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.pdb
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.dll
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\refint\DemSoNguyenTo.dll
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.pdb
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\DemSoNguyenTo\DemSoNguyenTo\obj\Debug\net10.0\ref\DemSoNguyenTo.dll
